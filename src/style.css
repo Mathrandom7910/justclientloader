@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&family=JetBrains+Mono:wght@268&family=Overpass:wght@200&display=swap");
+
+.jcAlert {
+    width: 50%;
+    height: 20%;
+    background-color: rgb(64, 125, 175);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 16px;
+    border: 8px solid rgb(37, 72, 100);
+    border-radius: 10px;
+    text-align: center;
+}
+
+#jcholder {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(128, 128, 128, 0.315);
+    display: none;
+    position: absolute;
+    z-index: 9669;
+    top: 0px;
+    left: 0px;
+}
+
+.jcText {
+    font-family: "JetBrains Mono";
+}
+
+.aIdInput {
+    font-family: "JetBrains Mono";
+    width: 80%;
+    height: 15%;
+    background-color: rgb(128, 158, 182);
+    border: 0px;
+    outline: none;
+    border-radius: 10px;
+    transition-duration: 250ms;
+}
+
+.aIdInput:hover {
+    background-color: rgb(143, 164, 182);
+}
+
+.aIdSB {
+    font-family: "JetBrains Mono";
+    margin-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 20%;
+    background-color: rgb(51, 146, 80);
+    border: 0px;
+    border-radius: 10px;
+    transition-duration: 250ms;
+    cursor: pointer;
+}
+
+.aIdSB:hover {
+    background-color: rgb(75, 156, 100);
+}
+
+.redir {
+    font-family: "JetBrains Mono";
+}
+
+.privacy {
+    font-family: "JetBrains Mono";
+}
+
+.privC {
+    position: absolute;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: left;
+    padding-top: 60px;
+}

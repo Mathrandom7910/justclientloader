@@ -1,0 +1,1 @@
+export const loaderVersion = "0.0.0";
